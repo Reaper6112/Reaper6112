@@ -73,4 +73,4 @@ from AGENTS
 where COMMISSION between 0.12 and 0.14;
 
 select AGENT_NAME as A_name
-from AGENTS
+from AGENTS;
